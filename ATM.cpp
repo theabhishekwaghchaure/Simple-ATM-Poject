@@ -1,17 +1,21 @@
 /*
 TITLE:		SIMPLE ATM MACHINE
+
 PURPOSE:	Write a program that simulates as an atm machine
+
 TASKS:		Create an account that has the ability to 
 				1) Check checking account balance
 				2) Check savings account balance
 				3) Make transfers between each account
 				4) Make deposits into accounts
 				5) Make withdrawals from accounts
+				
 AUTHOR:		Abhishek Sharad Waghchaure
+
 INSTRUCTIONS:	
-			Enter pin number '1234'
-			Checkings Account Balance = 100
-			Savings Account Balance = 600
+		Enter pin number '1234'
+		Checkings Account Balance = 100
+		Savings Account Balance = 600
 */
 
 #include "stdafx.h"
